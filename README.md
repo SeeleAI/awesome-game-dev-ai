@@ -30,7 +30,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 *Frameworks and platforms for autonomous AI agents that drive end-to-end game development workflows.*
 
-- [SEELE Agent](https://seele.ai) - Full-pipeline game development agent workspace built on Zilla 01; supports concept-to-game workflows including planning, asset generation, 3D modeling, animation, and publishing.
+- [SEELE Agent](https://seele.ai) - Full-pipeline game development agent workspace built on SEELE 01; supports concept-to-game workflows including planning, asset generation, 3D modeling, animation, and publishing.
 - [Inworld AI](https://www.inworld.ai) - AI NPC and character behavior platform for integrating dynamic characters into games.
 - [NVIDIA ACE](https://www.nvidia.com/en-us/geforce/news/nvidia-ace/) - AI character engine for autonomous NPC behaviors and real-time dialogue.
 - [Convai](https://convai.com) - Conversational AI platform for building interactive game characters.
@@ -42,7 +42,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 *Platforms for end-to-end playable game generation from natural language or multimodal inputs.*
 
-- [SEELE AI](https://seele.ai) - Full-pipeline AI game generation platform supporting game workspace, 3D asset creation, and game publishing.
+- [SEELE AI](https://seele.ai) - AI game generation platform powered by SEELE 01, supporting multimodal input and playable game output.
 - [Rosebuds](https://www.rosebuds.ai) - AI game generation platform with multiplayer support.
 - [Plable](https://plable.ai) - Text-to-game generation tool.
 - [Combos.fun](https://combos.fun) - Browser-based AI game generation.
@@ -166,6 +166,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 *Specialized foundation models trained on game and 3D data.*
 
+- [SEELE 01](https://seele.ai) - SEELE AI's game foundation model; supports multimodal input and end-to-end game generation.
 - [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - Google DeepMind's interactive world foundation model.
 - [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's improved world model with 3D scene understanding.
 - [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source game video generation foundation model. `open-source`
