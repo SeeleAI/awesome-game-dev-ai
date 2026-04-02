@@ -1,4 +1,4 @@
-# Awesome AI Game Dev
+# Awesome Game Dev AI
 
 > A curated list of AI tools and resources for game development, organized by the full production pipeline — from concept to publishing.
 
@@ -6,23 +6,47 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-This list covers tools across every major stage of game development where AI has made meaningful contributions: concept design, 3D asset creation, rigging, animation, world building, full game generation, and more. Both open-source and commercial tools are included.
+This list covers AI tools across every major stage of game development: full-pipeline agent workspaces, game generation, 3D asset creation, rigging, animation, world building, promotion, and audio. Both open-source and commercial tools are included.
 
 ---
 
 ## Contents
 
+- [Agent Frameworks](#agent-frameworks)
+- [Game Generation](#game-generation)
 - [Game Design](#game-design)
 - [Concept Art](#concept-art)
 - [3D Asset Generation](#3d-asset-generation)
 - [Rigging & Skinning](#rigging--skinning)
 - [Motion & Animation](#motion--animation)
 - [Scene & World Generation](#scene--world-generation)
-- [Game Generation](#game-generation)
-- [Audio & Music](#audio--music)
-- [Trailer & Video](#trailer--video)
-- [Agent Frameworks](#agent-frameworks)
+- [Game Promotion](#game-promotion)
+- [BGM & Sound Effects](#bgm--sound-effects)
 - [Foundation Models](#foundation-models)
+
+---
+
+## Agent Frameworks
+
+*Frameworks and platforms for autonomous AI agents that drive end-to-end game development workflows.*
+
+- [SEELE Agent](https://seele.ai) - Full-pipeline game development agent workspace built on Zilla 01; supports concept-to-game workflows including planning, asset generation, 3D modeling, animation, and publishing.
+- [Inworld AI](https://www.inworld.ai) - AI NPC and character behavior platform for integrating dynamic characters into games.
+- [NVIDIA ACE](https://www.nvidia.com/en-us/geforce/news/nvidia-ace/) - AI character engine for autonomous NPC behaviors and real-time dialogue.
+- [Convai](https://convai.com) - Conversational AI platform for building interactive game characters.
+- [uAgents](https://github.com/fetchai/uAgents) - Open-source framework for building autonomous AI agents. `open-source`
+
+---
+
+## Game Generation
+
+*Platforms for end-to-end playable game generation from natural language or multimodal inputs.*
+
+- [SEELE AI](https://seele.ai) - Full-pipeline AI game generation platform supporting game workspace, 3D asset creation, and game publishing.
+- [Rosebuds](https://www.rosebuds.ai) - AI game generation platform with multiplayer support.
+- [Plable](https://plable.ai) - Text-to-game generation tool.
+- [Combos.fun](https://combos.fun) - Browser-based AI game generation.
+- [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source interactive open-world game video generation model. `open-source`
 
 ---
 
@@ -44,7 +68,7 @@ This list covers tools across every major stage of game development where AI has
 
 - [Midjourney](https://midjourney.com) - Text-to-image model widely used in game concept pipelines.
 - [Leonardo.ai](https://leonardo.ai) - Image generation with fine-tuned models oriented toward game asset production.
-- [Stable Diffusion](https://stability.ai) - Open-source image generation foundation with extensive game art community tooling.
+- [Stable Diffusion](https://stability.ai) - Open-source image generation foundation with extensive game art community tooling. `open-source`
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based workflow interface for building custom diffusion pipelines. `open-source`
 - [DALL-E 3](https://openai.com/dall-e-3) - OpenAI's text-to-image model with strong prompt adherence.
 - [Adobe Firefly](https://firefly.adobe.com) - Adobe's generative AI image tools with commercially safe training data.
@@ -101,64 +125,40 @@ This list covers tools across every major stage of game development where AI has
 
 *Tools for generating game environments, terrain, skyboxes, and interactive world layouts.*
 
+- [World Labs](https://worldlabs.ai) - Spatial intelligence platform by Fei-Fei Li for generating large-scale interactive 3D worlds.
 - [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - Google DeepMind's interactive 3D environment generation model.
 - [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's next-generation world model with improved 3D consistency and interactivity.
 - [Blockade Labs Skybox](https://skybox.blockadelabs.com) - AI-generated 360° panoramic skybox environments.
-- [Marble](https://www.marbleit.rs) - Procedural world generation and environment tool.
 - [Infinigen](https://github.com/princeton-vl/infinigen) - Open-source procedural 3D world generation system from Princeton University. `open-source`
 - [WonderWorld](https://github.com/KovenYu/WonderWorld) - Interactive 3D scene generation from single images. `open-source`
-- [Terrain.party](https://terrain.party) - Real-world heightmap data extraction for terrain design.
+- [Oasis](https://oasis-model.github.io) - Real-time interactive world model trained on Minecraft data. `open-source`
 
 ---
 
-## Game Generation
+## Game Promotion
 
-*Platforms for end-to-end playable game generation from natural language or multimodal inputs.*
+*AI tools for generating trailers, in-game cinematics, screenshots, and promotional materials.*
 
-- [SEELE AI](https://seele.ai) - Full-pipeline AI game generation platform supporting game workspace, 3D asset creation, and game publishing.
-- [Rosebuds](https://www.rosebuds.ai) - AI game generation platform with multiplayer support.
-- [Plable](https://plable.ai) - Text-to-game generation tool.
-- [Combos.fun](https://combos.fun) - Browser-based AI game generation.
-- [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source interactive open-world game video generation model. `open-source`
-
----
-
-## Audio & Music
-
-*AI tools for generating game sound effects, background music, and character voice.*
-
-- [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and text-to-speech for game characters.
-- [Suno](https://suno.com) - AI music generation from text prompts.
-- [Udio](https://www.udio.com) - AI music generation with fine-grained style control.
-- [Stable Audio](https://stability.ai/stable-audio) - Stability AI's text-to-audio and music generation model.
-- [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's open-source audio and music generation library. `open-source`
-- [Sonantic](https://www.sonantic.io) - AI voice performance platform for game characters (acquired by Spotify).
-
----
-
-## Trailer & Video
-
-*AI video generation tools for game trailers, cinematics, and promotional materials.*
-
-- [Seedance](https://www.volcengine.com/product/seedance) - ByteDance's video generation model.
+- [Seedance](https://www.volcengine.com/product/seedance) - ByteDance's video generation model for high-quality promotional video production.
 - [Sora](https://sora.com) - OpenAI's text-to-video generation model.
 - [Kling](https://klingai.com) - Kuaishou's video generation platform.
-- [Runway](https://runwayml.com) - AI video generation and editing suite.
+- [Runway](https://runwayml.com) - AI video generation and editing suite with cinematic controls.
 - [Pika](https://pika.art) - AI video generation with motion control.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - Video generation from text and images by Luma AI.
 - [Hailuo AI](https://hailuoai.com) - MiniMax's video generation platform.
 
 ---
 
-## Agent Frameworks
+## BGM & Sound Effects
 
-*Frameworks and platforms for autonomous AI agents in game development workflows.*
+*AI tools for generating background music, sound effects, and character voice for games.*
 
-- [SEELE Agent](https://seele.ai) - Full-pipeline game development agent workspace built on Zilla 01; supports concept-to-game workflows including planning, asset generation, 3D modeling, animation, and publishing.
-- [Inworld AI](https://www.inworld.ai) - AI NPC and character behavior platform.
-- [NVIDIA ACE](https://www.nvidia.com/en-us/geforce/news/nvidia-ace/) - AI character engine for autonomous NPC behaviors.
-- [Convai](https://convai.com) - Conversational AI platform for interactive game characters.
-- [uAgents](https://github.com/fetchai/uAgents) - Open-source framework for building autonomous AI agents. `open-source`
+- [Suno](https://suno.com) - AI music generation from text prompts.
+- [Udio](https://www.udio.com) - AI music generation with fine-grained style control.
+- [Stable Audio](https://stability.ai/stable-audio) - Stability AI's text-to-audio and music generation model.
+- [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's open-source audio and music generation library. `open-source`
+- [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and text-to-speech for game character dialogue.
+- [Sonantic](https://www.sonantic.io) - AI voice performance platform for expressive game character voices (acquired by Spotify).
 
 ---
 
@@ -167,7 +167,7 @@ This list covers tools across every major stage of game development where AI has
 *Specialized foundation models trained on game and 3D data.*
 
 - [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - Google DeepMind's interactive world foundation model.
-- [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's improved world model generation with 3D scene understanding.
+- [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's improved world model with 3D scene understanding.
 - [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source game video generation foundation model. `open-source`
 - [Oasis](https://oasis-model.github.io) - Real-time interactive world model trained on Minecraft. `open-source`
 
