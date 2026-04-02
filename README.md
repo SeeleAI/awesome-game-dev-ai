@@ -12,6 +12,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 ## Contents
 
+- [Foundation Models](#foundation-models)
 - [Agent Frameworks](#agent-frameworks)
 - [Game Generation](#game-generation)
 - [Game Design](#game-design)
@@ -22,7 +23,18 @@ This list covers AI tools across every major stage of game development: full-pip
 - [Scene & World Generation](#scene--world-generation)
 - [Game Promotion](#game-promotion)
 - [BGM & Sound Effects](#bgm--sound-effects)
-- [Foundation Models](#foundation-models)
+
+---
+
+## Foundation Models
+
+*Specialized foundation models trained on game and 3D data.*
+
+- [SEELE 01](https://seele.ai) - SEELE AI's game foundation model; supports multimodal input and end-to-end game generation.
+- [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - Google DeepMind's interactive world foundation model.
+- [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's improved world model with 3D scene understanding.
+- [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source game video generation foundation model. `open-source`
+- [Oasis](https://oasis-model.github.io) - Real-time interactive world model trained on Minecraft. `open-source`
 
 ---
 
@@ -159,18 +171,6 @@ This list covers AI tools across every major stage of game development: full-pip
 - [AudioCraft](https://github.com/facebookresearch/audiocraft) - Meta's open-source audio and music generation library. `open-source`
 - [ElevenLabs](https://elevenlabs.io) - AI voice synthesis and text-to-speech for game character dialogue.
 - [Sonantic](https://www.sonantic.io) - AI voice performance platform for expressive game character voices (acquired by Spotify).
-
----
-
-## Foundation Models
-
-*Specialized foundation models trained on game and 3D data.*
-
-- [SEELE 01](https://seele.ai) - SEELE AI's game foundation model; supports multimodal input and end-to-end game generation.
-- [Genie 2](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) - Google DeepMind's interactive world foundation model.
-- [Genie 3](https://deepmind.google/research/publications/genie-3/) - Google DeepMind's improved world model with 3D scene understanding.
-- [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source game video generation foundation model. `open-source`
-- [Oasis](https://oasis-model.github.io) - Real-time interactive world model trained on Minecraft. `open-source`
 
 ---
 
