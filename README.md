@@ -68,6 +68,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 - [Ludo.ai](https://ludo.ai) - Game ideation and market trend analysis platform.
 - [GDevelop](https://gdevelop.io) - Open-source game engine with integrated AI assistance features.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - AI tool for generating Roblox Studio GUI layouts and Lua starter code from natural language prompts.
 - [Scenario](https://www.scenario.com) - Fine-tuned image generation tailored to specific game art styles.
 - [Hidden Door](https://www.hiddendoor.co) - Collaborative AI narrative world generation for tabletop-style games.
 - [AI Dungeon](https://play.aidungeon.com) - Text adventure platform driven by large language models for dynamic story generation.
