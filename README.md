@@ -71,6 +71,7 @@ This list covers AI tools across every major stage of game development: full-pip
 - [Scenario](https://www.scenario.com) - Fine-tuned image generation tailored to specific game art styles.
 - [Hidden Door](https://www.hiddendoor.co) - Collaborative AI narrative world generation for tabletop-style games.
 - [AI Dungeon](https://play.aidungeon.com) - Text adventure platform driven by large language models for dynamic story generation.
+- [Auferet](https://auferet.com) - AI game master for solo text adventures and tabletop-style RPGs, with persistent memory and uploadable lore for consistent narrative worlds.
 
 ---
 
