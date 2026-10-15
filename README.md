@@ -57,6 +57,7 @@ This list covers AI tools across every major stage of game development: full-pip
 - [SEELE AI](https://seele.ai) - AI game generation platform powered by SEELE 01, supporting multimodal input and playable game output.
 - [Rosebuds](https://www.rosebuds.ai) - AI game generation platform with multiplayer support.
 - [Plable](https://plable.ai) - Text-to-game generation tool.
+- [WordstoGame](https://wordstogame.com/) - Free browser tool that turns one short English idea into a playable arcade prototype across three fixed game types; public [test notes](https://github.com/wshuo19890510/wordstogame-game-maker-tests) document observed behavior and limits.
 - [Combos.fun](https://combos.fun) - Browser-based AI game generation.
 - [GameGen-O](https://github.com/GameGen-O/GameGen-O) - Open-source interactive open-world game video generation model. `open-source`
 
