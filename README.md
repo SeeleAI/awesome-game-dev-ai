@@ -44,6 +44,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 - [SEELE Agent](https://seele.ai) - Full-pipeline game development agent workspace built on SEELE 01; supports concept-to-game workflows including planning, asset generation, 3D modeling, animation, and publishing.
 - [Inworld AI](https://www.inworld.ai) - AI NPC and character behavior platform for integrating dynamic characters into games.
+- [OhMyGame](https://www.ohmygame.ai) - Open-source desktop studio where an AI agent plans, builds, generates assets for, playtests, and publishes games; supports local projects on macOS and Windows.
 - [NVIDIA ACE](https://www.nvidia.com/en-us/geforce/news/nvidia-ace/) - AI character engine for autonomous NPC behaviors and real-time dialogue.
 - [Convai](https://convai.com) - Conversational AI platform for building interactive game characters.
 - [uAgents](https://github.com/fetchai/uAgents) - Open-source framework for building autonomous AI agents. `open-source`
