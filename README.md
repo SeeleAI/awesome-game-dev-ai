@@ -47,6 +47,7 @@ This list covers AI tools across every major stage of game development: full-pip
 - [NVIDIA ACE](https://www.nvidia.com/en-us/geforce/news/nvidia-ace/) - AI character engine for autonomous NPC behaviors and real-time dialogue.
 - [Convai](https://convai.com) - Conversational AI platform for building interactive game characters.
 - [uAgents](https://github.com/fetchai/uAgents) - Open-source framework for building autonomous AI agents. `open-source`
+- [Ziva.sh](https://ziva.sh) - Proprietary Godot editor AI agent that edits scenes and scripts, reads Godot errors, captures editor screenshots, and exposes local Godot tools to MCP clients such as Cursor and Claude Code.
 
 ---
 
