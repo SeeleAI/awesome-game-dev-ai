@@ -126,6 +126,7 @@ This list covers AI tools across every major stage of game development: full-pip
 - [Cascadeur](https://cascadeur.com) - AI-assisted keyframe animation with physics simulation and auto-posing.
 - [SayMotion](https://www.deepmotion.com/saymotion) - Text-to-motion generation by DeepMotion.
 - [Move.ai](https://www.move.ai) - Markerless AI motion capture from standard video.
+- [Animate4Me](https://animate4me.com) - Turns a text prompt or an image into a ready Spine 4.2 animation for 2D games (skeleton, atlas and texture), previewed in the browser.
 - [MimicMotion](https://github.com/Tencent/MimicMotion) - Open-source video-driven human motion generation by Tencent. `open-source`
 - [motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - Open-source human motion synthesis via diffusion models. `open-source`
 - [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) - Character animation from a reference image and a driving video. `open-source`
