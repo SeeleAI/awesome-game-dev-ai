@@ -78,6 +78,7 @@ This list covers AI tools across every major stage of game development: full-pip
 
 *AI tools for generating visual concepts, character sheets, environment references, and multi-view designs.*
 
+- [Jynno](https://jynno.com) - AI creative studio for planning and generating game concept images and promotional video; Agent-assisted visual direction with review before generation.
 - [Midjourney](https://midjourney.com) - Text-to-image model widely used in game concept pipelines.
 - [Leonardo.ai](https://leonardo.ai) - Image generation with fine-tuned models oriented toward game asset production.
 - [Stable Diffusion](https://stability.ai) - Open-source image generation foundation with extensive game art community tooling. `open-source`
